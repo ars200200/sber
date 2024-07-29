@@ -1,0 +1,51 @@
+,image,question,answer
+0,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=309x458 at 0x7AE8261FD510>,What's the leftmost value of Approve graph?,0. 5
+1,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=309x458 at 0x7AE8261FED10>,"Is the product of smallest value of Approve graph and largest value of Disapprove graph, greater than 2000?",yes
+2,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=420x382 at 0x7AE8261FDBD0>,When does the percentage of people who support legalization reach the peak?,no
+3,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=420x382 at 0x7AE8261FFB80>,When does the gap between support and against legalization reach the peak?,no
+4,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=310x380 at 0x7AE8261FE320>,What is the colour of India in the graph?,red
+5,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=310x380 at 0x7AE8261FD2D0>,What is the lowest sum value of India and Taliban?,0. 5
+6,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=310x404 at 0x7AE8261FC460>,What is the greatest gap value between the orange and the green lines?,0. 5
+7,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=310x404 at 0x7AE8261FFFD0>,Which year shows the tiniest difference in values between China and US being seen as leading economic power across all the years?,2013
+8,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=296x328 at 0x7AE8261FE530>,Is Approve and Disapprove line almost merged in March?,yes
+9,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=296x328 at 0x7AE8261FD570>,How many data points exceeds 50 value?,0. 5
+10,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=292x315 at 0x7AE8261FFA90>,In which year the value of favor is 57?,2013
+11,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=292x315 at 0x7AE8261FD210>,Which group favor or oppose has the highest value in the year Sept 2008?,yes
+12,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=411x355 at 0x7AE8261FEDD0>,Is there a value 30 in the dark blue line?,yes
+13,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=411x355 at 0x7AE8261FF8B0>,What is the product of the largest value on light blue line and leftmost value on the dark blue line?,no
+14,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=310x343 at 0x7AE8261FE0B0>,What is the value of the gray segment?,0. 5
+15,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=310x343 at 0x7AE8261FFBB0>,What's the gap percent between the bad and the better scenarios being studied?,0. 5
+16,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=199x371 at 0x7AE8261FEB60>,Is the color of DK segment gray?,no
+17,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=199x371 at 0x7AE8261FF130>,"Divide second largest segment by smallest segment, what's the result?",no
+18,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=205x440 at 0x7AE8261FE890>,What's the color of largest segment?,no
+19,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=205x440 at 0x7AE8261FFC40>,Is the value of smallest segment is one third of the value of the largest segment?,no
+20,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=200x411 at 0x7AE8261FDDB0>,What does smallest segment represents?,no
+21,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=200x411 at 0x7AE8261FE350>,Does the sum of smallest two segment value is greater then the the largest segment value of the graph?,no
+22,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=310x323 at 0x7AE8261FEB30>,What percentage of people are favorable?,0. 0
+23,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=310x323 at 0x7AE8261FEC50>,What is the difference between the very unfavorable and the Favorable?,0. 5
+24,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=212x419 at 0x7AE8261FCA00>,What is the percentage of people who do not go online?,0. 5
+25,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=212x419 at 0x7AE8261FF4C0>,Is the median of all three data values equal to 32?,no
+26,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=201x320 at 0x7AE8261FC280>,What is the value for 'Providing treatment' in the graph?,0. 5
+27,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=201x320 at 0x7AE8261FE980>,Is the average of all the data value greater than 40?,no
+28,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=200x447 at 0x7AE8261FCE20>,What does Orange portion indicates?,no
+29,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=200x447 at 0x7AE8261FC6A0>,How much Good more than Bad?,0. 5
+30,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=239x493 at 0x7AE8261FF550>,What's the most popular answer?,no
+31,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=239x493 at 0x7AE8261FC9D0>,What is the largest pie represented?,no
+32,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=310x401 at 0x7AE8261FC610>,What's the most popular option?,0. 0
+33,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=310x401 at 0x7AE8261FCBB0>,What's the percentage of people choosing important?,0. 5
+34,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=186x328 at 0x7AE8261FF0D0>,What occupied most in the pie chart?,0. 5
+35,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=186x328 at 0x7AE8261FF430>,How many times Dissatisfied more than satisfied?,0. 5
+36,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=185x331 at 0x7AE8261FE5C0>,What's the percentage of respondents who think food near Fukushima is not safe?,0. 5
+37,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=185x331 at 0x7AE8261FE4A0>,Is the sum of two smallest segment greater than largest segment?,no
+38,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=311x327 at 0x7AE8261FD5A0>,Is the color of right-side bars lightest?,no
+39,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=311x327 at 0x7AE8261FD900>,"What is the value of ""minor"" in Rep/Leap Rep?",0. 5
+40,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=309x392 at 0x7AE8261FFC70>,What's the percentage of US adults choosing never?,0. 5
+41,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=309x392 at 0x7AE8261FCAF0>,Which age range is more likely to choose never?,no
+42,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=422x404 at 0x7AE8261FF040>,What's the value of rightmost upper bar?,0. 5
+43,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=422x404 at 0x7AE8261FE3E0>,What is the largest value of navy blue bar?,0. 5
+44,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=429x399 at 0x7AE8261FE500>,What does Green bar represents?,yes
+45,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=429x399 at 0x7AE8261FC100>,What's the average of all green bar value?,0. 5
+46,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=308x407 at 0x7AE8261FC880>,Which country data shown in the Chart?,0. 65
+47,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=308x407 at 0x7AE8261FF070>,What is the average of last two bar?,0. 5
+48,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=850x600 at 0x7AE8261FFC10>,Which is the second largest bar value in the graph?,no
+49,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=850x600 at 0x7AE8261FD060>,What's the sum of all bars above 5?,0. 5
